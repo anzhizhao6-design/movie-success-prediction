@@ -1,7 +1,6 @@
 # Movie Revenue Analysis
 
 A data analysis project investigating how production budget affects box office revenue, with a focus on diminishing returns.
-
 Key Insight: Increasing budget improves revenue, but with diminishing returns—suggesting that optimal budget allocation is more important than simply spending more.
 ---
 
