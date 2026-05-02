@@ -52,7 +52,7 @@ Detailed dataset links and selection justification are provided inside the noteb
   * Model 3: Budget + Rating + Genre
 * Quadratic term to test non-linearity
 
-Overall, the analysis combines data cleaning, feature engineering, and regression modeling to isolate the effect of budget on revenue.
+### Overall, the analysis combines data cleaning, feature engineering, and regression modeling to isolate the effect of budget on revenue.
 
 ---
 
